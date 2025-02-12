@@ -59,6 +59,7 @@ Medium: 11px
 .offscreen {
   position: absolute;
   left: -99999;
+  pointer-events: none;
 }
 .nowrap {
   white-space: nowrap;
